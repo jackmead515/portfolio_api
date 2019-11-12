@@ -1,4 +1,4 @@
-# portfolio_api
+# ~~portfolio_api~~ DEPRECATED! Please refer to https://github.com/jackmead515/blog for the new blog!
 
 ### Install 
 
